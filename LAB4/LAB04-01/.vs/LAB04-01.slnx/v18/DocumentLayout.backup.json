@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\main-console\\Desktop\\Fourth\\MIIA0106-2025-B\\LAB04-01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89D70686-78D8-4D09-9B87-C092703E7232}|..\\LAB4\\LAB04-07\\LAB04-07.vcxproj|C:\\Users\\main-console\\Desktop\\Fourth\\MIIA0106-2025-B\\LAB4\\LAB04-07\\LAB04-07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1503CD88-CEB8-43F8-ADA8-699FB674286D}|..\\LAB4\\LAB04-06\\LAB04-06.vcxproj|C:\\Users\\main-console\\Desktop\\Fourth\\MIIA0106-2025-B\\LAB4\\LAB04-06\\LAB04-06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD7AB92-463C-44A6-91F1-3333C8074523}|..\\LAB4\\LAB04-5\\LAB04-5.vcxproj|C:\\Users\\main-console\\Desktop\\Fourth\\MIIA0106-2025-B\\LAB4\\LAB04-5\\LAB04-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392AC31C-D054-4A74-BA4A-2D5EEA6E27AD}|..\\LAB04-4\\LAB04-4.vcxproj|C:\\Users\\main-console\\Desktop\\Fourth\\MIIA0106-2025-B\\LAB04-4\\LAB04-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A2608F-B5F8-4915-9BCE-706885FAB556}|LAB04-02\\LAB04-02.vcxproj|C:\\Users\\main-console\\Desktop\\Fourth\\MIIA0106-2025-B\\LAB04-01\\LAB04-02\\LAB04-02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7A2608F-B5F8-4915-9BCE-706885FAB556}|LAB04-02\\LAB04-02.vcxproj|solutionrelative:LAB04-02\\LAB04-02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEA9461-5482-4A17-A569-E3E527F9B5C0}|..\\LAB4\\LAB04-03\\LAB04-03.vcxproj|C:\\Users\\main-console\\Desktop\\Fourth\\MIIA0106-2025-B\\LAB4\\LAB04-03\\LAB04-03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB8B893-286C-4341-9348-EB147C466CFC}|LAB04-01.vcxproj|C:\\Users\\main-console\\Desktop\\Fourth\\MIIA0106-2025-B\\LAB04-01\\LAB04-01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6CB8B893-286C-4341-9348-EB147C466CFC}|LAB04-01.vcxproj|solutionrelative:LAB04-01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5366148-4CBB-4C11-95DF-9477BFB06C0D}|..\\LAB4\\test lab 1\\test lab 1.vcxproj|C:\\Users\\main-console\\Desktop\\Fourth\\MIIA0106-2025-B\\LAB4\\test lab 1\\test lab 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB04-07.cpp",
+              "DocumentMoniker": "C:\\Users\\main-console\\Desktop\\Fourth\\MIIA0106-2025-B\\LAB4\\LAB04-07\\LAB04-07.cpp",
+              "RelativeDocumentMoniker": "..\\LAB4\\LAB04-07\\LAB04-07.cpp",
+              "ToolTip": "C:\\Users\\main-console\\Desktop\\Fourth\\MIIA0106-2025-B\\LAB4\\LAB04-07\\LAB04-07.cpp",
+              "RelativeToolTip": "..\\LAB4\\LAB04-07\\LAB04-07.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-07T14:23:03.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LAB04-06.cpp",
+              "DocumentMoniker": "C:\\Users\\main-console\\Desktop\\Fourth\\MIIA0106-2025-B\\LAB4\\LAB04-06\\LAB04-06.cpp",
+              "RelativeDocumentMoniker": "..\\LAB4\\LAB04-06\\LAB04-06.cpp",
+              "ToolTip": "C:\\Users\\main-console\\Desktop\\Fourth\\MIIA0106-2025-B\\LAB4\\LAB04-06\\LAB04-06.cpp",
+              "RelativeToolTip": "..\\LAB4\\LAB04-06\\LAB04-06.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-07T13:57:09.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LAB04-5.cpp",
+              "DocumentMoniker": "C:\\Users\\main-console\\Desktop\\Fourth\\MIIA0106-2025-B\\LAB4\\LAB04-5\\LAB04-5.cpp",
+              "RelativeDocumentMoniker": "..\\LAB4\\LAB04-5\\LAB04-5.cpp",
+              "ToolTip": "C:\\Users\\main-console\\Desktop\\Fourth\\MIIA0106-2025-B\\LAB4\\LAB04-5\\LAB04-5.cpp",
+              "RelativeToolTip": "..\\LAB4\\LAB04-5\\LAB04-5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-07T13:20:35.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LAB04-4.cpp",
+              "DocumentMoniker": "C:\\Users\\main-console\\Desktop\\Fourth\\MIIA0106-2025-B\\LAB04-4\\LAB04-4.cpp",
+              "RelativeDocumentMoniker": "..\\LAB04-4\\LAB04-4.cpp",
+              "ToolTip": "C:\\Users\\main-console\\Desktop\\Fourth\\MIIA0106-2025-B\\LAB04-4\\LAB04-4.cpp",
+              "RelativeToolTip": "..\\LAB04-4\\LAB04-4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-07T12:15:16.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "test lab 1.cpp",
+              "DocumentMoniker": "C:\\Users\\main-console\\Desktop\\Fourth\\MIIA0106-2025-B\\LAB4\\test lab 1\\test lab 1.cpp",
+              "RelativeDocumentMoniker": "..\\LAB4\\test lab 1\\test lab 1.cpp",
+              "ToolTip": "C:\\Users\\main-console\\Desktop\\Fourth\\MIIA0106-2025-B\\LAB4\\test lab 1\\test lab 1.cpp",
+              "RelativeToolTip": "..\\LAB4\\test lab 1\\test lab 1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-07T10:18:53.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LAB04-03.cpp",
+              "DocumentMoniker": "C:\\Users\\main-console\\Desktop\\Fourth\\MIIA0106-2025-B\\LAB4\\LAB04-03\\LAB04-03.cpp",
+              "RelativeDocumentMoniker": "..\\LAB4\\LAB04-03\\LAB04-03.cpp",
+              "ToolTip": "C:\\Users\\main-console\\Desktop\\Fourth\\MIIA0106-2025-B\\LAB4\\LAB04-03\\LAB04-03.cpp",
+              "RelativeToolTip": "..\\LAB4\\LAB04-03\\LAB04-03.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-07T10:06:55.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LAB04-02.cpp",
+              "DocumentMoniker": "C:\\Users\\main-console\\Desktop\\Fourth\\MIIA0106-2025-B\\LAB04-01\\LAB04-02\\LAB04-02.cpp",
+              "RelativeDocumentMoniker": "LAB04-02\\LAB04-02.cpp",
+              "ToolTip": "C:\\Users\\main-console\\Desktop\\Fourth\\MIIA0106-2025-B\\LAB04-01\\LAB04-02\\LAB04-02.cpp",
+              "RelativeToolTip": "LAB04-02\\LAB04-02.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-07T09:07:36.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LAB04-01.cpp",
+              "DocumentMoniker": "C:\\Users\\main-console\\Desktop\\Fourth\\MIIA0106-2025-B\\LAB04-01\\LAB04-01.cpp",
+              "RelativeDocumentMoniker": "LAB04-01.cpp",
+              "ToolTip": "C:\\Users\\main-console\\Desktop\\Fourth\\MIIA0106-2025-B\\LAB04-01\\LAB04-01.cpp",
+              "RelativeToolTip": "LAB04-01.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-07T08:43:12.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  LAB04-5.cpp
+C:\Users\main-console\Desktop\Fourth\MIIA0106-2025-B\LAB4\LAB04-5\LAB04-5.cpp(8,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LAB04-5.vcxproj -> C:\Users\main-console\Desktop\Fourth\MIIA0106-2025-B\LAB04-01\x64\Debug\LAB04-5.exe
